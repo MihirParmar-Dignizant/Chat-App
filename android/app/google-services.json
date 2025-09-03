@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "283954001679",
+    "project_id": "chat-app-pm04",
+    "storage_bucket": "chat-app-pm04.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283954001679:android:82cb4993a6b43e48d5f07a",
+        "android_client_info": {
+          "package_name": "com.example.chatapp.chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsaAxTqBbymKANl4Fzd9GagrnGjqlVQTE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
